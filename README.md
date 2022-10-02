@@ -36,7 +36,7 @@ We make a thousandth model and use Raspberry Pi 3B+ to control all sansors and m
 4. Open website
 
 #### Motor Control
-Configuratint every sensor & motor with wire、driver and circuit board. Then, using Gpio pinout of Raspberry Pi to control.
+Configuratint every sensor & motor with wire、driver and circuit board. Then, using gpio pinout of Raspberry Pi to control.
 
 ## Usage
 
