@@ -4,7 +4,7 @@
 This is the the project of Mechanical Practice. In this class, our team want to make a automated storage and retrieval system, we divide into two part:
 
 * Website  
-* WebCam scan QRcode on the goods, saving data in database and display on website.
+WebCam scan QRcode on the goods, saving data in database and display on website.
 
 * Motor Control  
 We make a thousandth model and use Raspberry Pi 3B+ to control all sansors and motors.
