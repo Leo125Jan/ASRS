@@ -57,3 +57,8 @@ width="480" height="270" border="10" /></a>
 ## Acknowledgments
 * [MCP23017_I2C-with-Raspberry-Pi-](https://github.com/rpsreal/MCP23017_I2C-with-Raspberry-Pi-)
 * [Django Tutorials](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&ab_channel=DennisIvy)
+
+## License
+Distributed under the MIT License. 
+
+
